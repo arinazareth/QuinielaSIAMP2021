@@ -1,0 +1,19 @@
+Bases:
+-Se jugara la competicion en su totalidad (Grupos, Octavos, Cuartos y Semifinales y Final).
+-Antes de cada fase enviar los resultados de dicha fase:
+	1) Limite para enviar resultados de grupos: 11 de junio, antes del partido inaugural
+	2) Limite para enviar resultados de octavos: 26 de junio, antes del primer partido de octavos
+	3) Limite para enviar resultados de cuartos: 2 de julio, antes del primer partido de cuartos
+	4) Limite para enviar resultados de semifinales: 6 de julio, antes del primer partido de semifinales
+	5) Limite para enviar resultados de final: 11 de julio, antes del partido de la final
+-Acertar el resultado significa indicar quien gana y quien pierde en el partido, o si es un empate.
+-Acertar el marcador significa indicar correctamente el número de goles que realicen los dos equipos. No se considera acertar el marcador si acierta el número de goles para un equipo y para el otro se falla.
+-En fase de grupos: Acertar el resultado, no el marcador: 2 puntos
+-En fase de grupos: Acertar el resultado y el marcador: 4 puntos
+-Acertar clasificado a octavos: 3 puntos
+-En fase de eliminatoria: Acertar el resultado, no el marcador: 2 puntos
+-En fase de eliminatoria: Acertar el resultado y el marcador: 4 puntos
+-En fase de eliminatoria el resultado y marcador se tomara el que resulte del tiempo reglamentario, no se tomara en cuenta tiempos extra.
+-El precio de entrada es Q50
+-El premio sera el total del pozo y lo ganara quien tenga mas puntos
+-En caso de empate, el premio se dividira equitativamente
