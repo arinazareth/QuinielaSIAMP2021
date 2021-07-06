@@ -16,4 +16,4 @@ Bases:
 -En fase de eliminatoria el resultado y marcador se tomara el que resulte del tiempo reglamentario, no se tomara en cuenta tiempos extra.
 -El precio de entrada es Q50
 -El premio sera el total del pozo y lo ganara quien tenga mas puntos
--En caso de empate, el premio se dividira equitativamente
+-En caso de empate, se tomaran en cuenta la cantidad de marcadores acertados para realizar el ordenamiento de las posiciones. En caso de empate total entre uno o mas participantes, se definiran las posiciones según lo que los participantes afectados decidan (a suerte, por otra medicion, etc.).
